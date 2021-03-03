@@ -7,7 +7,8 @@ Explain the concept of Polymorphism to a five year old kid.
  
  
  
- Bubble Sort
+ #Bubble Sort
+ 
  (5 1 4 3 2 8) ----> (1 5 4 3 2 8), here algorithm compares the first two elements and swap since 5>1
 
 (1 5 4 3 2 8) ----> (1 4 5 3 2 8) swap since 5>4.
